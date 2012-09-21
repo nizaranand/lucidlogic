@@ -1,0 +1,18 @@
+
+
+/* BEGIN spark_custom_css */
+h1{padding-top:10px;font-size: 30px;}
+nav a:focus {
+	display: block;
+	height: 63px;
+	padding: 20px 19px 0 20px;
+	text-decoration: none;
+	color:#666;
+	font-weight	: 600;
+	border-top: 3px solid #000;
+	margin-top: 1px;
+}
+h6{
+margin-top: 15px;
+}
+/* END spark_custom_css */
